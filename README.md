@@ -1,3 +1,3 @@
 # Machine_Learning
 
-Machine Learning at LiU
+Machine Learning at Linköping University
