@@ -1,3 +1,3 @@
 # Machine_Learning
 
-ML course at LiU
+Machine Learning at LiU
